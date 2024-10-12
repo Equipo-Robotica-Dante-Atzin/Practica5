@@ -27,6 +27,41 @@ Posteriormente se depositaron los puntos necesarios para cada inicio de letra.
 
 ![image](https://github.com/user-attachments/assets/25db1f5b-6268-48ea-99ae-cb3f4e3a2244)
 
+Luego se realizó el código necesario para trazar la palabra, donde se aseguro de hacer uso de un solo punto para cada letra a excepción de las letras donde se ocuparon arcos.
+```
+Function main
+Motor On
+Power Low
+Home
+
+Go uno
+Move uno +Y(100)
+Move uno -X(70) +Y(100)
+Go Here +Z(50)
+
+Go dos
+Move dos +Y(100)
+Go Here +Z(50)
+
+Go tres
+Move tres -Y(100)
+Move tres -X(70)
+Move Here -Y(100)
+Go Here +Z(50)
+
+Go cuatro -X(70)
+Arc cuatromedio -X(70), cuatromediodos -X(70)
+Arc (cuatromedio), cuatro -X(70)
+Go Here +Z(50)
+
+Motor Off
+Fend
+```
+Se realizó la simulación del código para asegurarnos del correcto trazo de la palabra.
+
+![image](https://github.com/user-attachments/assets/18f53d1a-42e7-4cc2-b67f-6a026c3120f9)
+
+
 
 
 
