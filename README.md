@@ -138,6 +138,24 @@ Este comando marca el final de la función principal, terminando la operación.
 
 Cabe destacar que la letra O no se pude trazar completamente ya que el pizarron se encontraba ligeramente inclinado.
 
+## Conclusiones
+
+***Atzin Morales Alejandre:*** 
+
+
+
+
+***Dante Mejía Silva:*** 
+
+La práctica realizada con el brazo robótico EPSON, programado para escribir la palabra "LINO", ofreció una oportunidad valiosa para aplicar y comprender en profundidad conceptos fundamentales en la programación y control de robots industriales. El uso de comandos como Go, Move, y Arc fue esencial para guiar al robot a lo largo de trayectorias precisas, que combinaban movimientos lineales y curvos necesarios para formar las letras.
+
+El comando Go permitió que el brazo robótico se moviera rápidamente entre distintas posiciones iniciales de cada letra, lo que optimizó la secuencia de movimientos. Posteriormente, los comandos Move fueron clave para trazar las líneas rectas en las letras "L", "I", y "N", asegurando que el plumón siguiera un recorrido preciso en los ejes X y Y. Por su parte, el uso del comando Arc para dibujar la "O" demostró la capacidad del robot de generar trayectorias curvas suaves, añadiendo un grado de complejidad que requiere una mayor coordinación entre los diferentes motores y ejes.
+
+Este tipo de control preciso y repetitivo es altamente valorado en industrias como la manufactura, donde los robots se encargan de realizar tareas repetitivas con altos estándares de calidad y exactitud. El hecho de que el robot pueda realizar la misma tarea una y otra vez sin perder precisión es un claro reflejo de las ventajas de la automatización en procesos industriales.
+
+## Referencias Bibliográficas 
+
+[1] 	EpsonCompany, «Especialistas en automatización industrial». 2024, https://www.epson.es/es_ES/robots
 
 
 
