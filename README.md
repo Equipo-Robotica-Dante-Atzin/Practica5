@@ -19,9 +19,14 @@ La combinación de estos comandos permitió que el brazo robótico realizara tra
 
 ## Instrucciones
 
-En primer lugar se eligió la palabra por escribir y se trazó en un papel las medidas necesarias para cada letra.
+En primer lugar se eligió la palabra por escribir (LINO) y se trazó en un papel las medidas necesarias para cada letra.
 
 ![image](https://github.com/user-attachments/assets/bcd35dce-0472-4fdb-bd64-1830033fa2a8)
+
+Posteriormente se depositaron los puntos necesarios para cada inicio de letra. 
+
+![image](https://github.com/user-attachments/assets/25db1f5b-6268-48ea-99ae-cb3f4e3a2244)
+
 
 
 
