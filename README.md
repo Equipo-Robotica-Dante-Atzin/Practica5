@@ -142,8 +142,11 @@ Cabe destacar que la letra O no se pude trazar completamente ya que el pizarron 
 
 ***Atzin Morales Alejandre:*** 
 
+Esta práctica permitió profundizar en el uso de comandos fundamentales para el control de robots industriales. El objetivo fue aplicar y comprender cómo los comandos GO, MOVE y ARC pueden ser utilizados en combinación para lograr movimientos precisos y fluidos durante la realización de diversas tareas, como en este caso para escribir sobre una superficie.
 
+El comando GO fue crucial para posicionar rápidamente el brazo en los puntos iniciales de cada letra, permitiendo una transición eficiente entre ellas. MOVE fue aplicado para generar movimientos lineales y controlar el trazado de líneas rectas, mientras que ARC facilitó los movimientos curvos necesarios para letras redondeadas como la "O". La correcta utilización de estos comandos demuestra cómo es posible integrar movimientos complejos en aplicaciones industriales, asegurando precisión en cada operación.
 
+Esta práctica destacó la importancia de la programación y planificación cuidadosa para el control de movimientos en robots industriales, mostrando cómo la combinación de comandos básicos puede generar trayectorias complejas y altamente repetibles, lo que es esencial en tareas automatizadas de manufactura y ensamblaje.
 
 ***Dante Mejía Silva:*** 
 
